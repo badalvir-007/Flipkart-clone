@@ -33,7 +33,7 @@ app.use('/' , Router);
 
 
 
-const  PORT = 80;
+const  PORT = 8080;
 
 const USERNAME=process.env.DB_USERNAME;
 const PASSWORD =process.env.DB_PASSWORD;
